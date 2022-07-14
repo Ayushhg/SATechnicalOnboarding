@@ -40,3 +40,4 @@ As you are navigating the technical onboarding, please reference the [Technical 
 
 # Thank you for completing the Technical Onboarding! 
 If you would like to provide feedback or suggestions, create an issue on this repository [with this link](https://github.com/microsoft/SATechnicalOnboarding/issues/new/) and we'll be sure to look into your suggestions! 😊
+![Profile  Picture](https://user-images.githubusercontent.com/76999903/178917442-3bfe01d7-c2b1-493d-ba2c-99b42e48e815.jpg)
